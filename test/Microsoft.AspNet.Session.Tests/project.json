@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "Microsoft.AspNet.Session": "1.0.0-*",
-    "Microsoft.AspNet.RequestContainer": "1.0.0-*",
-    "Microsoft.AspNet.TestHost": "1.0.0-*",
-    "xunit.runner.kre": "1.0.0-*"
+    "Microsoft.AspNet.Session": "1.0.0-beta3",
+    "Microsoft.AspNet.RequestContainer": "1.0.0-beta3",
+    "Microsoft.AspNet.TestHost": "1.0.0-beta3",
+    "xunit.runner.kre": "1.0.0-beta3"
   },
   "commands": {
     "test": "xunit.runner.kre"
